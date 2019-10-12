@@ -12,4 +12,8 @@ class model extends \PDO
             p($e->getMessage());
         }
     }
+    public function testMedoo()
+    {
+        
+    }
 }
